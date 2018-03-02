@@ -1,1 +1,2 @@
 First file 
+Modified the first file while commiting multiple files
