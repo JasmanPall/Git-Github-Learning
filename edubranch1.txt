@@ -1,1 +1,2 @@
 first branch text file
+Modified in the 1st branch
